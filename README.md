@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @acamikuro
 - 👀 I’m interested in Open Source, DevRel and JS.
 - 🌱 I’m currently learning: Linux, HTML, Git and Community Management.
-- 💞️ I’m looking to collaborate on He4rt Developers.
+- 💞️ I’m looking to collaborate on He4rt Developers
+- 🐱 Mother of a beautiful cat called Tofu.
 
 <!---
 acamikuro/acamikuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
