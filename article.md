@@ -7,7 +7,7 @@ It was after attending my first tech event, **Frontin Sampa**, that I decided: 
 
 So, I began my studies with a [**simple roadmap**]([https://trilha.info/roadmap/frontend](https://trilha.info/roadmap/frontend)) that helped me a lot in **getting started**, and the best part is that it includes some **free resources** you can pick as you learn!
 
-![[Pasted image 20230918112928.png]]  
+[roadmap image](https://imgur.com/a/ZpAqEjp)
 
 In addition to learning the basics of **front-end** programming, I dedicated myself to understanding the concept of **open source**, which was one of the talks I watched in the tech event and was completely amazed by.
 
@@ -83,7 +83,7 @@ As soon as we request datas or services to server, it can reply to the client so
 
 To illustrate these statuses better, during the mentorship I was given a website that shows all of them with [kitten memes](https://http.cat/) and a brief description. I thought it sensational and helped me to fix better each one of statuses. 
 
-![[Pasted image 20230921111645.png]]
+[201 - Created cat meme](https://imgur.com/a/OO58ioL)
 
 HTTP also uses **verbs** like **"GET"** to get information and **"POST"** to send or publish data to a server. Also, it can work with JSON, a document model usually used to analyze and transform data, making it a fundamental protocol for all our online activities. 
 
