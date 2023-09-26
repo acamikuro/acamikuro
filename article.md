@@ -8,7 +8,7 @@ Then, I attended my first tech event called **Frontin Sampa**, and something cli
 
 So, with zero prior knowledge, I embarked on my programming journey armed with a [**basic roadmap**]([https://trilha.info/roadmap/frontend](https://trilha.info/roadmap/frontend)) that proved to be incredibly helpful for a newbie like me. The best part? It had loads of **free resources** to pick up along the way!
 
-[roadmap image](https://imgur.com/a/ZpAqEjp)
+![roadmap image](https://imgur.com/a/ZpAqEjp)
 
 In addition to learning the basics of **front-end** programming, I dedicated myself to understanding the concept of **open source**, which was one of the talks I watched in the tech event and was completely amazed by.
 
@@ -81,7 +81,7 @@ To wrap up the concepts I've covered, let me explain **HTTP**, which stands for 
 
 Whenever we request data or services from a server, it can respond with status codes represented by numbers. You've probably heard of "**404**" which means "**not found**", but there are others like "**201 - Created**" and "**500 - Internal Server Error.**" During one of my mentoring sessions, I was given a website that showcased all these status codes with [kitten memes](https://http.cat/) and a brief description. It was fantastic and helped me grasp each one of those statuses better.
 
-[201 - Created cat meme](https://imgur.com/a/OO58ioL) 
+![201 - Created cat meme](https://imgur.com/a/OO58ioL) 
 
 HTTP also uses **verbs** like **"GET"** to get information and **"POST"** to send or publish data to a server. Also, it can work with JSON, a document model usually used  for analyzing and transforming data. This makes HTTP a fundamental protocol for all our online activities.
 ### 3. Conclusion
